@@ -70,7 +70,7 @@ int main() {
 			degreeprogram = NETWORK;
 		}
 
-		classRoster.add(s1, s2, s3, s4, s5, s6, s7, s8, degreeprogram); // had to send degreeprogram instead of s9, will this cause problems?
+		classRoster.add(s1, s2, s3, s4, s5, s6, s7, s8, degreeprogram); 
 	}
 
 	// 4. Complete pseudo code
